@@ -1,3 +1,3 @@
 <?php
-         echo 'this is demo entry file';
+         echo 'this is demo entry files';
 ?>
