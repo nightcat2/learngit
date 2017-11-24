@@ -1,3 +1,3 @@
 <?php
-        echo 'this is a index file';
+        echo 'this is a index files';
 ?>
