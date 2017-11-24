@@ -1,4 +1,3 @@
 <?php
-echo 'this a test file';
-添加了文件
+echo 'this a test files';
 ?>
